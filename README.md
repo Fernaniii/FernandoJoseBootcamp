@@ -5,4 +5,4 @@ day 3!!
 ![image](https://github.com/Fernaniii/FernandoJoseBootcamp/assets/145454557/d939cce0-21ac-45d1-b15b-278102ee9ad1)
 
     >tryyyy
-![image] (images\image.png)
+![mymage] (images\image.png)
