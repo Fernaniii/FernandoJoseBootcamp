@@ -1,1 +1,0 @@
-print ("pogi ata ako")
