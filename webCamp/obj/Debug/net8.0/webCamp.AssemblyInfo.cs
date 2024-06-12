@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webCamp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5ce939efeac8000953780d069d845d41d4f92f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d91041bf0358161b73fc14b7a305caecfce4d535")]
 [assembly: System.Reflection.AssemblyProductAttribute("webCamp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webCamp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
