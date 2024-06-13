@@ -40,4 +40,4 @@ HOW TO MAKE README.md BEAUTIFUL look [Format readme.md](https://docs.github.com/
 
 
 
-[GITHUB and GIT] (File:journal.md)
+[GITHUB and GIT](journal.md)
