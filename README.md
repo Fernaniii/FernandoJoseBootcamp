@@ -5,7 +5,6 @@
     - [X] Basic Lesson 1: variables and Console.Writeline("") 
          ### ![codename](images/printNamecode.png)
          ![printname](images/outputName.png)
-
     - [ ] Basic Lesson 2:
 
 ## **day 2!** :baby: :ninja:

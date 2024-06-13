@@ -13,11 +13,14 @@ git push
 ```
 
 ### from remote to local
-```
-git remote add upstream [link]
-git fetch upstream
-git rebase upstream/main
-```
+
+    ```
+     git remote add upstream [link]
+     git fetch upstream
+     git rebase upstream/main
+    ```
+
+SEE [README.md](README.md)
 
 ### add ALERTS
 
