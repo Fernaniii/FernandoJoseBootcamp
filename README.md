@@ -1,11 +1,12 @@
-# FernandoJoseBootcamp
 ## **day 1**
+# FernandoJoseBootcamp :grinning:
+:upside_down_face:8
 
-- [X] [^1]: Basic Lesson 1: variables and Console.Writeline("") 
+- [X] Basic Lesson 1: variables and Console.Writeline("") 
 ![codename](images/printNamecode.png)
 ![printname](images/outputName.png)
 
-- [X] Basic Lesson [^2]:
+- [] Basic Lesson 2:
 
 ## **day 2**
 ### create new mvc.net file using the pallete and run the web page demo
