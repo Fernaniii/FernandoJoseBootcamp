@@ -2,14 +2,14 @@
 
 ## **day 1!** :upside_down_face: :poop: :banana:
 
-  - [X] Basic Lesson 1: Create a console app solution in visual studio code that will print your full name, age and gender
+- [X] Basic Lesson 1: Create a console app solution in visual studio code that will print your full name, age and gender
      ### ![codename](images/printNamecode.png)
      ![printname](images/outputName.png)
-  - [ ] Basic Lesson 2: Create decision logic with if statement
+- [ ] Basic Lesson 2: Create decision logic with if statement
 
-  - [ ] Basic Lesson 3: Comparing 3 numbers
+- [ ] Basic Lesson 3: Comparing 3 numbers
 
-  - [ ] Basic Lesson 4: Check if Even
+- [ ] Basic Lesson 4: Check if Even
 
 
 ## **day 2!** :baby: :trollface:
