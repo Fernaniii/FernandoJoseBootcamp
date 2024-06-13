@@ -34,7 +34,7 @@
 
 
    ### trouble shooting
-   - removing cached/nested repository
+   - removing cached/nested repository :poop:
        ```
        git rm -r --cached [name of the folder]
        ```
