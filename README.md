@@ -1,10 +1,11 @@
 # FernandoJoseBootcamp
 ## **day 1**
 
-- [X] [^1] Basic Lesson 1: variables and Console.Writeline("") 
+- [X] [^1]: Basic Lesson 1: variables and Console.Writeline("") 
 ![codename](images/printNamecode.png)
-
 ![printname](images/outputName.png)
+
+- [X] Basic Lesson [^2]:
 
 ## **day 2**
 ### create new mvc.net file using the pallete and run the web page demo
