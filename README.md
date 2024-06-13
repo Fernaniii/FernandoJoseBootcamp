@@ -13,7 +13,7 @@
 ![image](https://github.com/Fernaniii/FernandoJoseBootcamp/assets/145454557/d939cce0-21ac-45d1-b15b-278102ee9ad1)
 
 ## **day 3!!**
-- [x] ### to be accomplish
+- [x] to be accomplish
 
 image relative linking 
 ```
@@ -32,12 +32,12 @@ git rm -r --cached [name of the folder]
 
 
 > [!NOTE]
->see the other sample in jornal including Note, Tip, Important, Warning and Caution
+>see the other sample in journal including Note, Tip, Important, Warning and Caution
 
 
-HOW TO MAKE readme.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+HOW TO MAKE README.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 
 
-[GITHUB and GIT] (journal.txt)
+[GITHUB and GIT] (File:journal.md)
