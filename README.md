@@ -2,11 +2,11 @@
 
 ## **day 1!** :upside_down_face: :poop: :banana:
 
-- [X] Basic Lesson 1: variables and Console.Writeline("") 
-![codename](images/printNamecode.png)
-![printname](images/outputName.png)
+    - [X] Basic Lesson 1: variables and Console.Writeline("") 
+         ### ![codename](images/printNamecode.png)
+         ![printname](images/outputName.png)
 
-- [ ] Basic Lesson 2:
+    - [ ] Basic Lesson 2:
 
 ## **day 2!** :baby: :ninja:
 ### create new mvc.net file using the pallete and run the web page demo
