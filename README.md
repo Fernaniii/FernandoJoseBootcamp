@@ -1,9 +1,9 @@
 # FernandoJoseBootcamp
 >day 1!!
 =code 
-![codename](FernandoJoseBootcamp\images\printNamecode.png)
+![codename](FernandoJoseBootcamp/images/printNamecode.png)
 =output
-![printname](FernandoJoseBootcamp\images\image.png)
+![printname](FernandoJoseBootcamp/images/imagetest.png)
 
 day 3!!
     >create new mvc.net file using the pallete and run the web page demo
@@ -20,6 +20,6 @@ day 3!!
 >additional 
 removing cached/nested repository
 
-"git rm -r --cached DAY1"
+"git rm -r --cached [name of the folder]"
 
 
