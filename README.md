@@ -3,7 +3,7 @@
 =code 
 ![codename](images/printNamecode.png)
 =output
-![printname](images/imagetest.png)
+![printname](images/outputName.png)
 
 ## **day 2**
     to be accomplish
@@ -19,7 +19,7 @@ image relative linking
     ![allias](relative path)
 ```
 
-![mymage](images/image.png)
+![mymage](images/imagetest.png)
 
 
 
@@ -31,8 +31,8 @@ removing cached/nested repository
 ```
 
 
-how to make read.md beautiful [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+HOW TO MAKE readme.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 
-[journey in learning github and git](/journal.txt)
+journey in learning [GITHUB and GIT] (/journal.txt)
