@@ -1,4 +1,9 @@
 # FernandoJoseBootcamp
+>day 1!!
+=code 
+![codename](FernandoJoseBootcamp\images\printNamecode.png)
+=output
+![printname](FernandoJoseBootcamp\images\image.png)
 
 day 3!!
     >create new mvc.net file using the pallete and run the web page demo
@@ -6,4 +11,6 @@ day 3!!
 
     >tryyyy
     ![mymage](images/image.png)
+    ![allias](relative path)
 ![mymage](images/image.png)
+
