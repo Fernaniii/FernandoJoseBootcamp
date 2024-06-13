@@ -34,12 +34,12 @@
 
 
    ### trouble shooting
-   removing cached/nested repository
+   - removing cached/nested repository
        ```
        git rm -r --cached [name of the folder]
        ```
    ### ADDITIONAL
-   FILE relative linking 
+   - FILE relative linking 
       ```
        ![mymage](images/image.png)
        ![allias](relative path)
