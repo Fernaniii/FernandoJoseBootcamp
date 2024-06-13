@@ -38,4 +38,4 @@ HOW TO MAKE readme.md BEAUTIFUL look [Format readme.md](https://docs.github.com/
 
 
 
-[GITHUB and GIT] (FernandoJoseBootcamp/journal.txt)
+[GITHUB and GIT] (journal.txt)
