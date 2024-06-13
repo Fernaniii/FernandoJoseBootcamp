@@ -1,19 +1,26 @@
-06-11-2024
+# JOURNAL
 
-i want to learn how to collaborate using github by learning pull push or something else
->>from local to remote
+>06-11-2024
+>i want to learn how to collaborate using github by learning pull push or something else
+
+
+### from local to remote
+```
 git init
 git add .
 git commit -m ."description"
 git push
+```
 
->>from remote to local
+### from remote to local
+```
 git remote add upstream [link]
 git fetch upstream
 git rebase upstream/main
+```
 
+### add ALERTS
 
-i learn to add alert
 ``` 
 > [!NOTE]
 >Useful information that users should know, even when skimming content.
@@ -31,5 +38,9 @@ i learn to add alert
 > Advises about risks or negative outcomes of certain actions.
 
 ```
+### EMOGI
+:smile: 
+```
+:emoginame:
 
-
+```
