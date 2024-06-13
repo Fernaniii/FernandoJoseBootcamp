@@ -1,7 +1,7 @@
 # FernandoJoseBootcamp
 ## **day 1**
 
-[x] Basic Lesson 1: variables and Console.Writeline("") 
+- [X] Basic Lesson 1: variables and Console.Writeline("") 
 ![codename](images/printNamecode.png)
 
 ![printname](images/outputName.png)
