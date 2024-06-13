@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\bin\Debug\net8.0\DAY1.exe
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\bin\Debug\net8.0\DAY1.deps.json
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\bin\Debug\net8.0\DAY1.runtimeconfig.json
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\bin\Debug\net8.0\DAY1.dll
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\bin\Debug\net8.0\DAY1.pdb
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.AssemblyInfo.cs
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.sourcelink.json
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.dll
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\refint\DAY1.dll
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.pdb
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.genruntimeconfig.cache
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\ref\DAY1.dll
