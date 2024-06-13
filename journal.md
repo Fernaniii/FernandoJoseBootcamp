@@ -20,7 +20,7 @@ git push
      git rebase upstream/main
     ```
 
-SEE [README.md](README.md)
+
 
 ### add ALERTS
 
@@ -47,3 +47,4 @@ SEE [README.md](README.md)
 :emoginame:
 
 ```
+SEE [README.md](README.md)
