@@ -27,24 +27,15 @@ removing cached/nested repository
 git rm -r --cached [name of the folder]
 
 ```
+
+
 > [!NOTE]
->Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+>see the other sample in jornal including Note, Tip, Important, Warning and Caution
 
 
 HOW TO MAKE readme.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 
-journey in learning [GITHUB and GIT] (../FernandoJoseBootcamp/journal.txt)
+
+[GITHUB and GIT] (FernandoJoseBootcamp/journal.txt)
