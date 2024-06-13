@@ -1,9 +1,9 @@
 # FernandoJoseBootcamp
 >day 1!!
 =code 
-![codename](FernandoJoseBootcamp/images/printNamecode.png)
+![codename](images/printNamecode.png)
 =output
-![printname](FernandoJoseBootcamp/images/imagetest.png)
+![printname](images/imagetest.png)
 
 day 3!!
     >create new mvc.net file using the pallete and run the web page demo
