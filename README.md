@@ -12,5 +12,14 @@ day 3!!
     >tryyyy
     ![mymage](images/image.png)
     ![allias](relative path)
+
 ![mymage](images/image.png)
+
+
+
+>additional 
+removing cached/nested repository
+
+"git rm -r --cached DAY1"
+
 
