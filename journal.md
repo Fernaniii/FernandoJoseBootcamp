@@ -48,9 +48,9 @@ git push
 ```
 
 # TROUBLESHOOTING
-  [MANUALLY ADDING SOLUTION](https://learn.microsoft.com/en-us/sql/ssms/solution/add-an-existing-project-to-a-solution?view=sql-server-ver16)
-  > [NOTE!] WHEN MULTIPLE PROJECT WITHIN A PROJECT FOLDER manually add solution
-  
+
+  > [!NOTE] WHEN MULTIPLE PROJECT WITHIN A PROJECT FOLDER manually add solution
+  > [MANUALLY ADDING SOLUTION](https://learn.microsoft.com/en-us/sql/ssms/solution/add-an-existing-project-to-a-solution?view=sql-server-ver16)
 
 
 SEE [README.md](README.md)
