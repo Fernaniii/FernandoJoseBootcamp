@@ -2,7 +2,21 @@
 
 >06-11-2024
 >i want to learn how to collaborate using github by learning pull push or something else
+>06-14-2024
+>github .md (markdown)
 
+
+## git tricks
+- you can use this instead of separate git add .  and git commit
+   ```
+  git commit -am "description"
+   ```
+
+- you can add allias to command to make the command faster
+```
+   git config --global allias.NAMEORLETTEROFNEWCOMMAND "COMMAND TO ALLIAS"   
+```
+ 
 
 ### from local to remote
 ```
