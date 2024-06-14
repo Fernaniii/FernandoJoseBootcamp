@@ -3,21 +3,21 @@
    ## **day 1!** :upside_down_face: :poop: :banana:
 
    - [X] Basic Lesson 1: Create a console app solution in visual studio code that will print your full name, age and gender
-    ```
-    string firstName = ("Fernando Jose");
-    string middleName = ("Maniaga");
-    string lastName  = ("Magnaye");
-    int myAge = 22;
-    string myGender = "MALE";
+       ```
+        string firstName = ("Fernando Jose");
+        string middleName = ("Maniaga");
+        string lastName  = ("Magnaye");
+        int myAge = 22;
+        string myGender = "MALE";
 
-    Console.WriteLine($"my Full name is {firstName} {middleName} {lastName}" );  
-    Console.WriteLine($"my age is  {myAge} and I am a {myGender}");
-    ```
-     ![printname](images/outputName.png)
+        Console.WriteLine($"my Full name is {firstName} {middleName} {lastName}" );  
+        Console.WriteLine($"my age is  {myAge} and I am a {myGender}");
+       ```
+    ![printname](images/outputName.png)
 
 
    - [ ] Basic Lesson 2: Create decision logic with if statement
-     ```
+    ```
      Random random = new Random();
      int diceOne = random.Next(7);
      int diceTwo = random.Next(7);
