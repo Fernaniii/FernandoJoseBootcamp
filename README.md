@@ -13,7 +13,7 @@
         Console.WriteLine($"my Full name is {firstName} {middleName} {lastName}" );  
         Console.WriteLine($"my age is  {myAge} and I am a {myGender}");
        ```
-       ![printname](images/outputName.png)
+![printname](images/outputName.png)
 
 
    - [x] Basic Lesson 2: Create decision logic with if statement
@@ -36,13 +36,38 @@
                         Console.WriteLine(" SORRY.. YOU LOST ");
                       }
       ```
-     ![threeDices](images/threeDice.png)
+![threeDices](images/threeDice.png)
 
 
-   - [ ] Basic Lesson 3: Comparing 3 numbers
+   - [x] Basic Lesson 3: Comparing 3 numbers
+       ```
+       int num1 = 95;
+       int num2 = 80;
+        int num3 = 90;
 
-   - [ ] Basic Lesson 4: Check if Even
+        Console.WriteLine($"numbers [{num1}, {num2}, {num3}]. ");
 
+        int highest = (num1 > num2) ? (num1 > num3 ? num1 : num3) : (num2 > num3 ? num2 : num3);
+        int lowest = (num1 < num2) ? (num1 < num3 ? num1 : num3) : (num2 < num3 ? num2 : num3);
+
+        Console.WriteLine("HIGHEST: " + highest);
+        Console.WriteLine("LOWEST: " + lowest);
+
+       ```
+![Hihest and Lowest number](images/highestLowest.png)
+
+   - [X] Basic Lesson 4: Check if Even
+        ```
+           int numberToCheck = 7;
+ 
+           if(numberToCheck %2 == 0){
+            Console.WriteLine($"Number {numberToCheck} is even");
+           } else{
+             Console.WriteLine($"Number {numberToCheck} is not even");
+           }
+
+        ```
+![Even number Checker](images/evenChecker.png) 
 
    ## **day 2!** :baby: :trollface:
    - [x] create new mvc.net file using the pallete and run the web page demo
