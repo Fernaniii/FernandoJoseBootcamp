@@ -13,30 +13,30 @@
         Console.WriteLine($"my Full name is {firstName} {middleName} {lastName}" );  
         Console.WriteLine($"my age is  {myAge} and I am a {myGender}");
        ```
-    ![printname](images/outputName.png)
+       ![printname](images/outputName.png)
 
 
-   - [ ] Basic Lesson 2: Create decision logic with if statement
-    ```
-     Random random = new Random();
-     int diceOne = random.Next(7);
-     int diceTwo = random.Next(7);
-     int diceThree = random.Next(7);
-     int bonus = 0;
+   - [x] Basic Lesson 2: Create decision logic with if statement
+       ```
+        Random random = new Random();
+        int diceOne = random.Next(7);
+        int diceTwo = random.Next(7);
+        int diceThree = random.Next(7);
+        int bonus = 0;
 
-     if(diceOne == diceTwo && diceTwo == diceThree){
-      bonus = 6;
-     }
+        if(diceOne == diceTwo && diceTwo == diceThree){
+        bonus = 6;
+       }
 
-     int  Score = diceOne + diceTwo + diceThree + bonus;
-     Console.WriteLine($"Dice Roll: {diceOne} + {diceTwo} + {diceThree} + BONUS({bonus}) = {Score}");
-       if(Score >= 15){
-       Console.WriteLine(" CONGRATS!! YOU WON");
+        int  Score = diceOne + diceTwo + diceThree + bonus;
+        Console.WriteLine($"Dice Roll: {diceOne} + {diceTwo} + {diceThree} + BONUS({bonus}) = {Score}");
+        if(Score >= 15){
+         Console.WriteLine(" CONGRATS!! YOU WON");
                       } else{
                         Console.WriteLine(" SORRY.. YOU LOST ");
                       }
       ```
-      ![threeDices](images/threeDice.png)
+     ![threeDices](images/threeDice.png)
 
 
    - [ ] Basic Lesson 3: Comparing 3 numbers
