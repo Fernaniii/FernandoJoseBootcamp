@@ -15,23 +15,15 @@ public class HomeController : Controller
             firstName = "Fernando Jose",
             middleName = "Maniaga",
             lastName = "Magnaye"
-
-            return View(fullname);
-
-        }
+        };
             
 
-        return View();
+        return View(fullname);
     }
 
-    public IActionResult Privacy()
+    public IActionResult Sample()
     {
         return View();
     }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-    }
 }

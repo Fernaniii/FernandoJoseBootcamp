@@ -71,8 +71,68 @@
 
    ## **day 2!** :baby: :trollface:
    - [x] create new mvc.net file using the pallete and run the web page demo
- ![image](https://github.com/Fernaniii/FernandoJoseBootcamp/assets/145454557/d939cce0-21ac-45d1-b15b-278102ee9ad1)
+  - model
+ > Create new .cs file to add the model/class
+      ```
+         public class NameS
+       {
+            public required string firstName {get; set;}
 
+            public required string middleName {get; set;}
+
+            public required string lastName {get; set;}
+       }
+      ```
+ - create controller
+      ```
+            using System.Diagnostics;
+            using Microsoft.AspNetCore.Mvc;
+            using DAY2.Models;
+
+            namespace DAY2.Controllers;
+
+            public class HomeController : Controller
+            {
+
+
+               public IActionResult Index()
+               {
+
+                  NameS fullname = new NameS(){
+                        firstName = "Fernando Jose",
+                        middleName = "Maniaga",
+                        lastName = "Magnaye"
+                  };
+                        
+
+                  return View(fullname);
+               }
+
+               public IActionResult Sample()
+               {
+                  return View();
+               }
+
+            }
+
+
+      ```
+ - display in View
+      ```
+         @{
+            ViewData["Title"] = "Home Page";
+         }
+
+
+         @using DAY2.Models;
+
+         <h1>First Name: @Model.firstName</h1>
+         <br>
+         <h1>Middle Name: @Model.middleName</h1>
+         <br>
+         <h1>Last Name: @Model.lastName</h1>
+      ```
+ ![MVC sample](images/sampleMVC1.png)
    ## **day 3!** :smile::knife:
    ### Create an inventory list screen
             
