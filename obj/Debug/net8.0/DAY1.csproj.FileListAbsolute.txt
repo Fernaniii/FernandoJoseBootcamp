@@ -12,3 +12,4 @@ C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\r
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.pdb
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.genruntimeconfig.cache
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\ref\DAY1.dll
+C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY1\obj\Debug\net8.0\DAY1.sourcelink.json
