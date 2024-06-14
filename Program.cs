@@ -54,6 +54,7 @@ Console.WriteLine("HIGHEST: " + highest);
 Console.WriteLine("LOWEST: " + lowest);
 **/
 
+//DAY 4
 int numberToCheck = 7;
  
 if(numberToCheck %2 == 0){
