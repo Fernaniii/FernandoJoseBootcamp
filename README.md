@@ -43,8 +43,8 @@
       ```
        ![mymage](images/image.png)
        ![allias](relative path)
-      ```
-
+      ```                                   
+      
  > [!NOTE]
  >see the other sample in journal including Note, Tip, Important, Warning and Caution
  >[GITHUB and GIT JOURNAL](journal.md)

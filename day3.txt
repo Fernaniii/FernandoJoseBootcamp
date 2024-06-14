@@ -1,0 +1,23 @@
+day 3 
+
+
+free code camp
+
+bootstrap framework
+boot strap grid system
+
+razor syntax
+PARENTHEsis (importance)
+
+@(c# code block)
+bootswatch.com
+
+list in c#
+var name = new List<person>();
+home controller
+fieldset
+
+margin top (mt-2)
+ctrt+Shift+c
+(inspect
+)

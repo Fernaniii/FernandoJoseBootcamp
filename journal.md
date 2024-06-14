@@ -21,8 +21,7 @@ git push
     ```
 
 
-
-### add ALERTS
+### add ALERTS to Mark Down (.md)
 
 ``` 
 > [!NOTE]
@@ -47,4 +46,11 @@ git push
 :emoginame:
 
 ```
+
+# TROUBLESHOOTING
+  [MANUALLY ADDING SOLUTION](https://learn.microsoft.com/en-us/sql/ssms/solution/add-an-existing-project-to-a-solution?view=sql-server-ver16)
+  > [NOTE!] WHEN MULTIPLE PROJECT WITHIN A PROJECT FOLDER manually add solution
+  
+
+
 SEE [README.md](README.md)
