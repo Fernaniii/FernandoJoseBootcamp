@@ -1,0 +1,15 @@
+﻿@model SampleWeb.Models.User
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@using (Html.BeginForm("Test", "Home", FormMethod.Post, new { @name = "testForm" })){
+    
+    @Html.TextBoxFor(model => model.FullName, new { @class = "form-control", @id = "FullName" })
+
+    @Html.TextBoxFor(model => model.Age, new { @class = "form-control", @id = "Age" })
+
+    <button type="submit" class="btn btn-success" href=""><i class="icon-save"></i>  Save</button>
+}

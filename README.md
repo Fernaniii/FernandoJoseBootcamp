@@ -73,15 +73,14 @@
    - [x] create new mvc.net file using the pallete and run the web page demo
   - model
  > Create new .cs file to add the model/class
+      
       ```
-         public class NameS
-       {
-            public required string firstName {get; set;}
-
-            public required string middleName {get; set;}
-
+       public class NameS
+        {
+        public required string firstName {get; set;}
+          public required string middleName {get; set;}
             public required string lastName {get; set;}
-       }
+        }
       ```
  - create controller
       ```
