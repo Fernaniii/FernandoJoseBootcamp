@@ -147,7 +147,7 @@
 
   - [x] Display the dummy datas in a table in your newly created view. 
 
-- [DAY 3 Exercise](Day3.md)
+     ## DAY 3 [Exercise](Day3.md)
 
 
    ### trouble shooting
@@ -164,7 +164,7 @@
       
  > - [!NOTE]
  >see the other sample in journal including Note, Tip, Important, Warning and Caution
- >[GITHUB and GIT JOURNAL](journal.md)
+ >GITHUB and GIT [JOURNAL](journal.md)
 
 
    HOW TO MAKE README.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
