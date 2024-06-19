@@ -1,4 +1,62 @@
-﻿
+# DAY 3 Exercise
+## product.cs
+```
+namespace DAY3.Model{
+public class  Product
+{
+    public Product(int itemID, string itemName, string itemDescription, string itemCode, int quantity, string createDate)
+    {
+    this.ItemID = itemID;
+    this.ItemName = itemName;
+    this.ItemDescription = itemDescription;
+    this.ItemCode = itemCode;
+    this.Quantity = quantity;
+    this.CreateDate = createDate; 
+    }
+
+    public int? ItemID {get; set;}
+    public string? ItemName {get; set;}
+    public string? ItemDescription {get; set;}
+    public string? ItemCode {get; set;}
+    public int? Quantity{get; set;}
+    public string? CreateDate{get; set;}
+  }
+}
+```
+## HomeController.cs
+```
+using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using DAY3.Models;
+using DAY3.Model;
+
+
+namespace PracticeWeb.Controllers;
+
+public class HomeController : Controller
+{
+    public IActionResult Index()
+    {
+        Product product = new Product(
+        12,
+        "NOVA", 
+        "EXPIRED", 
+        "13A",
+        31,
+        "03-06-2001"
+        );
+
+        return View(product);
+    }    
+    public IActionResult Test(Product product) {
+        return RedirectToAction("Index");
+    }
+}
+
+```
+## index.cshtml
+```
+
 
 @{
     ViewData["Title"] = "Home Page";
@@ -40,3 +98,6 @@
         }
     </tbody>
 </table>
+```
+![Simple List](images/TableListDay3.png)
+- [RETURN TO readme.md](README.md)

@@ -135,18 +135,19 @@
    ## **day 3!** :smile::knife:
    ### Create an inventory list screen
             
-  - [ ] Create a new solution for your inventory list screen
+  - [x] Create a new solution for your inventory list screen
 
-  - [ ] Create an inventory model in the Model folder that has the properties ItemID, ItemName, ItemDescription, ItemCode, Quantity, and CreateDate.
+  - [x] Create an inventory model in the Model folder that has the properties ItemID, ItemName, ItemDescription, ItemCode, Quantity, and CreateDate.
 
-  - [ ] Create a new controller and name it InventoryController.
+  - [x] Create a new controller and name it InventoryController.
 
-  - [ ] Create a new method in the InventoryController and create a new view.
+  - [x] Create a new method in the InventoryController and create a new view.
 
-  - [ ] Create a list of your inventory model and add a dummy data.
+  - [x] Create a list of your inventory model and add a dummy data.
 
-  - [ ] Display the dummy datas in a table in your newly created view. 
+  - [x] Display the dummy datas in a table in your newly created view. 
 
+- [DAY 3 Exercise](Day3.md)
 
 
    ### trouble shooting

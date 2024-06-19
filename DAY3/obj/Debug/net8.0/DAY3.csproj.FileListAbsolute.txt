@@ -13,7 +13,6 @@ C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\D
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\DAY3.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\DAY3.RazorAssemblyInfo.cache
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\DAY3.RazorAssemblyInfo.cs
-C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\DAY3.sourcelink.json
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\user\Desktop\bootCampPract\FernandoJoseBootcamp\DAY3\obj\Debug\net8.0\staticwebassets\msbuild.DAY3.Microsoft.AspNetCore.StaticWebAssets.props

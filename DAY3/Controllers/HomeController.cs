@@ -1,18 +1,27 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using SampleWeb.Models;
+using DAY3.Models;
+using DAY3.Model;
 
-namespace SampleWeb.Controllers;
+
+namespace PracticeWeb.Controllers;
 
 public class HomeController : Controller
 {
     public IActionResult Index()
     {
-        User user = new User();
-        user.FullName = "Jomiel L. Enriquez";
-        return View(user);
-    }
-    public IActionResult Test(User user){
+        Product product = new Product(
+        12,
+        "NOVA", 
+        "EXPIRED", 
+        "13A",
+        31,
+        "03-06-2001"
+        );
+
+        return View(product);
+    }    
+    public IActionResult Test(Product product) {
         return RedirectToAction("Index");
     }
 }
