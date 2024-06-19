@@ -1,0 +1,59 @@
+day 4
+
+
+SQL
+windows authentication
+express
+sql server
+master ribbon
+
+
+
+new database> name > enter
+sample db
+
+
+focus table in sample db
+
+
+choose the database > 
+
+select ,update delete
+*(all)
+>not case sensitive of the table!!
+
+
+filters on selecting
+
+<specific string '%'
+
+
+
+'alt F1' details of table
+
+unique identifier
+varchar
+decimal
+
+'sql join'
+  allias in the *
+
+  ```
+  select * from table a(allias)
+  ```
+  ```
+  insert into table (collumn, to, be, inserted)
+  values(n, m, l, p)
+  ```
+  *transaaction
+
+>entity frame work
+
+>injection
+
+>db context
+
+>constraining
+	>relationship
+		>primary 
+		>foreign key
