@@ -167,6 +167,9 @@
  >GITHUB and GIT [JOURNAL](journal.md)
 
 
+   [nuget](https://learn.microsoft.com/en-us/nuget/consume-packages/install-use-packages-powershell)
+
+
    HOW TO MAKE README.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
