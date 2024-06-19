@@ -163,8 +163,8 @@
       ```                                   
       
  > - [!NOTE]
- >see the other sample in journal including Note, Tip, Important, Warning and Caution
- >GITHUB and GIT [JOURNAL](journal.md)
+ > see the other sample in journal including Note, Tip, Important, Warning and Caution
+ > GITHUB and GIT [JOURNAL](journal.md)
 
 
    HOW TO MAKE README.md BEAUTIFUL look [Format readme.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
