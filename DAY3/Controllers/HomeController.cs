@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using DAY3.Models;
 using DAY3.Model;
 
-
 namespace PracticeWeb.Controllers;
 
 public class HomeController : Controller
