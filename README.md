@@ -150,8 +150,8 @@
      ## DAY 3 [Exercise](Day3.md)
 
 ## **Day4** Creating CRUD MVC
-   ![images\day4List.png](images\\day4List.png)
-   - [day 4 Exercise](FernandoJoseBootcamp\\ProductsSolution)
+   ![images\day4List.png](images/day4List.png)
+   - [day 4 Exercise](FernandoJoseBootcamp/ProductsSolution)
 
    ### trouble shooting
    - removing cached/nested repository :poop:
